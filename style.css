@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&family=Tilt+Neon&display=swap');
+
+body{
+    background-color: rgb(209, 236, 245);
+}
+.login_div
+{
+    float: none;
+    border-radius: 15px;
+}
+
+.logo
+{
+	width: 68%;margin-top: 30px;border-radius: 40px;
+}
+
+#login_button
+{
+	width: 80%;border-radius: 15px;
+    background-color: rgb(0, 140, 255);
+    color: white;
+    height: 35px;
+    font-size: medium;
+    font-family: 'Raleway', sans-serif;
+    border-color: transparent;
+}
+
+#feedback_button{
+
+    width: 25%;
+    border-radius: 15px;
+    background-color: rgb(33, 217, 36);
+    color: white;
+    height: 35px;
+    font-size: medium;
+    font-family: 'Raleway', sans-serif;
+    border-color: transparent;
+
+}
+
+#addRoom_button{
+    width: 25%;
+    border-radius: 15px;
+    background-color: rgb(33, 217, 36);
+    color: white;
+    height: 35px;
+    font-size: medium;
+    font-family: 'Raleway', sans-serif;
+    border-color: transparent;
+}
+
+#logo{
+    width: 25%;margin-top: 30px;border-radius: 40px;
+}
+
+.color_white
+{
+	color: rgb(88, 126, 252)
+}
+
+.input_div_room_page
+{
+	width: 80%;
+}
+
